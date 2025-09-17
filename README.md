@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abhishekn12
-- 👀 I’m interested in Python and ReactJS
-- 🌱 I’m currently learning Node JS
+- 👀 I’m interested in Python and Data Engineering
 - 📫 How to reach me - nabhishek865@gmail.com
 
 <!---
