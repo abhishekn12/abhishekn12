@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhishekn12
-- 👀 I’m interested in Python and Data Engineering
+- 👀 I’m interested in Backend, systems and platform engineering.
 - 📫 How to reach me - nabhishek865@gmail.com
 
 <!---
